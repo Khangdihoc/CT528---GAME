@@ -1,0 +1,2451 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 285,
+    "major": 5,
+    "minor": 6,
+    "revision": 0
+  },
+  "initialGDVersion": "5.6.285",
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": false,
+    "orientation": "default",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "27ed9a6c-8f30-41f0-8c95-dffec6e8f3d6",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "version": "1.0.0",
+    "name": "Background",
+    "description": "",
+    "author": "",
+    "windowWidth": 1920,
+    "windowHeight": 1080,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "bggame-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bggame-02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "caichuareu-03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "caichuareu-03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "rock-1-04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rock-1-04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Asset 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Asset 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Asset3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Asset3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Asset 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Asset 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Bầu trời pixel và núi tiên cảnh.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bầu trời pixel và núi tiên cảnh.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Phong cảnh núi rừng pixel art thanh bình.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Phong cảnh núi rừng pixel art thanh bình.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "caichuareu-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "caichuareu-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "New Piskel (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "New Piskel (3).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Detail 5 đã tô.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Detail 5 đã tô.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Bầu trời pixel và núi tiên cảnh2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bầu trời pixel và núi tiên cảnh2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/may-01x.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/may-01x.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Detail-53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Detail-53.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dirt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/dirt.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/U-2-cloud.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/U-2-cloud.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chap-1-nen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/chap-1-nen.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chap-1-nen@3x.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/chap-1-nen@3x.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/nenn.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/nenn.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "chap-1-nen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chap-1-nen.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dat.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dat-nho.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dat-nho.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chap-1-nen_pixel_160x32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/chap-1-nen_pixel_160x32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "chap-1-nen_pixel_160x32 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chap-1-nen_pixel_160x32 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C:/Users/anngu_4ydz2un/Downloads/van-go-32x32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:/Users/anngu_4ydz2un/Downloads/van-go-32x32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/bang_chi_dan_chapter1_32x32 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/bang_chi_dan_chapter1_32x32 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dat-1cube.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/dat-1cube.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dat-bay.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/dat-bay.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dat-mini.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/dat-mini.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets_dat-mini.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_dat-mini.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dat-nho_32x32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/dat-nho_32x32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dat-nho_32x32 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dat-nho_32x32 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/van-go-32x32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/van-go-32x32.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "van-go-32x32 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "van-go-32x32 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dirt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dirt.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/New image.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tre.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tre.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/da-khac.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/da-khac.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "da-khac.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "da-khac.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "da-big (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "da-big (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite24.png\"}",
+        "name": "NewSprite24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "dientho (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dientho (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "chankinh1 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chankinh1 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite30",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ]
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "b": 243,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Chapter_451",
+      "name": "Chapter-1",
+      "r": 236,
+      "renderer3DWorldScale": 100,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 237,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.3645833333333347,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1145,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BG_1",
+          "persistentUuid": "f34e3385-6266-4061-ba5f-bd2b61f9a086",
+          "width": 2032,
+          "x": -63,
+          "y": -49,
+          "zOrder": -5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 238,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cloud_1",
+          "persistentUuid": "df53723c-77df-44cb-a802-6f2c0c2f9bb7",
+          "width": 238,
+          "x": 12,
+          "y": 296,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 301,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cloud_1",
+          "persistentUuid": "c473e57d-d9c1-4c86-a339-61bc19439037",
+          "width": 301,
+          "x": -17,
+          "y": -9,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 301,
+          "keepRatio": true,
+          "layer": "",
+          "locked": true,
+          "name": "cloud_1",
+          "persistentUuid": "d19bd645-3680-4829-91f1-d5347a18ea01",
+          "width": 301,
+          "x": 272,
+          "y": 210,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 301,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cloud_1",
+          "persistentUuid": "fbd461da-fd1f-48f2-9c16-81d5bcd6d257",
+          "width": 301,
+          "x": 580,
+          "y": 25,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 301,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cloud_1",
+          "persistentUuid": "4b3ec89b-4c2c-485e-80d5-f68a3e5347c1",
+          "width": 301,
+          "x": 932,
+          "y": 224,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 301,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cloud_1",
+          "persistentUuid": "ce9607af-7d95-47c1-a11d-74d4243cabcd",
+          "width": 301,
+          "x": 1586,
+          "y": 207,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 331,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cloud_1",
+          "persistentUuid": "d854fe15-b603-4fca-9b02-79c7847b436d",
+          "width": 447,
+          "x": 1093,
+          "y": -55,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 135,
+          "keepRatio": true,
+          "layer": "",
+          "name": "nen",
+          "persistentUuid": "7404b5f0-28d4-4921-9409-61e948c44962",
+          "width": 678,
+          "x": -32,
+          "y": 945,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 157,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Nchi_dan",
+          "persistentUuid": "ad7fee2c-3fa4-4a05-9482-03a792cd1519",
+          "width": 157,
+          "x": 65,
+          "y": 829,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4.43478260873,
+          "height": 170,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dat_bay",
+          "persistentUuid": "74bb617d-85bc-4220-bcf0-f7a60eee26dd",
+          "width": 170,
+          "x": 641,
+          "y": 835,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.72340425532,
+          "height": 170,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dat_bay2",
+          "persistentUuid": "9c19fd33-4db8-4e15-ab1e-8e71ef6c4285",
+          "width": 170,
+          "x": 841,
+          "y": 609,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4.43478260869,
+          "height": 170,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dat_bay",
+          "persistentUuid": "010b941b-3c52-403c-b95e-95c074e806f1",
+          "width": 170,
+          "x": 1065,
+          "y": 835,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 402,
+          "keepRatio": true,
+          "layer": "",
+          "name": "tre",
+          "persistentUuid": "643a8060-8a82-4959-9d9c-8eac76c25906",
+          "width": 402,
+          "x": -69,
+          "y": 593,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 287,
+          "keepRatio": true,
+          "layer": "",
+          "name": "da_khac",
+          "persistentUuid": "67404691-40e4-4cdf-81ef-692c9d808351",
+          "width": 287,
+          "x": 366,
+          "y": 452,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 278,
+          "keepRatio": true,
+          "layer": "",
+          "name": "da_khac",
+          "persistentUuid": "a1f14cf7-7fcb-43a7-8381-861b9a4e67d8",
+          "width": 278,
+          "x": 1225,
+          "y": 524,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 278,
+          "keepRatio": true,
+          "layer": "",
+          "name": "da_khac",
+          "persistentUuid": "eac9773c-3e13-4019-bb1b-e5316d533c54",
+          "width": 278,
+          "x": 701,
+          "y": 307,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 274,
+          "keepRatio": true,
+          "layer": "",
+          "name": "da_khac",
+          "persistentUuid": "3d9178b0-eae4-439c-b747-b956fb2f7d97",
+          "width": 274,
+          "x": 1073,
+          "y": 214,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 451,
+          "keepRatio": true,
+          "layer": "",
+          "name": "da_big",
+          "persistentUuid": "33031097-6b50-46b9-b777-b9bf851fbea9",
+          "width": 451,
+          "x": 1499,
+          "y": 97,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "flippedX": true,
+          "height": 451,
+          "keepRatio": true,
+          "layer": "",
+          "name": "da_big",
+          "persistentUuid": "d86d2ef8-cb6e-4965-952d-46fdb55a053a",
+          "width": 451,
+          "x": 1532,
+          "y": 726,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 157,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Nchi_dan",
+          "persistentUuid": "9e5cc420-2d78-4ecd-80fe-d1fea2dcd0ba",
+          "width": 157,
+          "x": 1553,
+          "y": 726,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 402,
+          "keepRatio": true,
+          "layer": "",
+          "name": "tre",
+          "persistentUuid": "02e35101-4098-437c-aae1-805178e3fc25",
+          "width": 402,
+          "x": 1612,
+          "y": 499,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 300,
+          "keepRatio": true,
+          "layer": "",
+          "name": "tre",
+          "persistentUuid": "6dccd66b-3f0e-4eb4-a621-24f7b826fff3",
+          "width": 300,
+          "x": 1465,
+          "y": -25,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 300,
+          "keepRatio": true,
+          "layer": "",
+          "name": "tre",
+          "persistentUuid": "5c645d36-8b1b-431d-bcec-910ff721bb58",
+          "width": 300,
+          "x": 1553,
+          "y": -24,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 160,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dientho",
+          "persistentUuid": "4a588916-b561-47f9-8f98-8a4321a2d08e",
+          "width": 160,
+          "x": 1715,
+          "y": 93,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 62,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chankinh1",
+          "persistentUuid": "b6645b2b-9610-4785-b9b5-c69af365f59d",
+          "width": 62,
+          "x": 1759,
+          "y": 151,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BG_1",
+          "persistentUuid": "65e604cf-f39b-4b33-ab71-19ab0434fac5",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Bầu trời pixel và núi tiên cảnh2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1672,
+                            "y": 0
+                          },
+                          {
+                            "x": 1672,
+                            "y": 941
+                          },
+                          {
+                            "x": 0,
+                            "y": 941
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "cloud_1",
+          "persistentUuid": "c6c1ab9e-18f5-4e1e-9907-5d7c6b47bacd",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/U-2-cloud.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 116
+                          },
+                          {
+                            "x": 298,
+                            "y": 116
+                          },
+                          {
+                            "x": 298,
+                            "y": 200
+                          },
+                          {
+                            "x": 9,
+                            "y": 200
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "nen",
+          "persistentUuid": "0af76294-a640-4814-890f-7fb9987bb6e6",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "chap-1-nen_pixel_160x32 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 27,
+                            "y": 0
+                          },
+                          {
+                            "x": 453,
+                            "y": 0
+                          },
+                          {
+                            "x": 453,
+                            "y": 96
+                          },
+                          {
+                            "x": 27,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Nchi_dan",
+          "persistentUuid": "e5233517-1be8-45aa-82d6-802367700ef1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bang_chi_dan_chapter1_32x32 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 90,
+                            "y": 12
+                          },
+                          {
+                            "x": 90,
+                            "y": 87
+                          },
+                          {
+                            "x": 12,
+                            "y": 87
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dat_bay",
+          "persistentUuid": "9dbcef32-44b0-49ff-8f14-a00fa40c377b",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Huong",
+              "persistentUuid": "188e69f7-8fb0-4e63-b8ff-6db9ec34186f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "TocDo",
+              "persistentUuid": "b1b601ed-7857-421a-8742-ab030a26b2e2",
+              "type": "number",
+              "value": 160
+            },
+            {
+              "name": "YGoc",
+              "persistentUuid": "3d3a16c1-457a-4bf9-a1ac-afe4f6f70e70",
+              "type": "number",
+              "value": 835
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_dat-mini.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 15
+                          },
+                          {
+                            "x": 140,
+                            "y": 15
+                          },
+                          {
+                            "x": 140,
+                            "y": 150
+                          },
+                          {
+                            "x": 10,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dat_bay2",
+          "persistentUuid": "04ffa723-6274-4a3c-b1c4-690b42cb4746",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Huong",
+              "persistentUuid": "e735d603-0d86-4e64-a3ec-ebb4548a6532",
+              "type": "number",
+              "value": -1
+            },
+            {
+              "name": "TocDo",
+              "persistentUuid": "dc2c7f6f-5d7e-4fc5-85b1-df2e33bbddee",
+              "type": "number",
+              "value": 160
+            },
+            {
+              "name": "YGoc",
+              "persistentUuid": "2ea56d4d-bb23-4f9d-a403-2aced146f489",
+              "type": "number",
+              "value": 609
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_dat-mini.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 15
+                          },
+                          {
+                            "x": 140,
+                            "y": 15
+                          },
+                          {
+                            "x": 140,
+                            "y": 150
+                          },
+                          {
+                            "x": 10,
+                            "y": 150
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "tre",
+          "persistentUuid": "ce485560-02b0-4ffd-9f6c-4769baf3c2e8",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/tre.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 25,
+                            "y": 16
+                          },
+                          {
+                            "x": 94,
+                            "y": 16
+                          },
+                          {
+                            "x": 94,
+                            "y": 118
+                          },
+                          {
+                            "x": 25,
+                            "y": 118
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "da_khac",
+          "persistentUuid": "71c50e73-0add-4968-95fe-f6874ac05394",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "da-khac.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 75
+                          },
+                          {
+                            "x": 305,
+                            "y": 75
+                          },
+                          {
+                            "x": 305,
+                            "y": 270
+                          },
+                          {
+                            "x": 20,
+                            "y": 270
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "da_big",
+          "persistentUuid": "3625c756-677a-4db3-8c6a-106ade10a3c8",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "da-big (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 162
+                          },
+                          {
+                            "x": 567,
+                            "y": 162
+                          },
+                          {
+                            "x": 567,
+                            "y": 432
+                          },
+                          {
+                            "x": 9,
+                            "y": 432
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dientho",
+          "persistentUuid": "ea0d4fd6-9d58-4731-85a7-3a159d2da326",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "dientho (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 465,
+                            "y": 0
+                          },
+                          {
+                            "x": 465,
+                            "y": 465
+                          },
+                          {
+                            "x": 0,
+                            "y": 465
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "chankinh1",
+          "persistentUuid": "8d6845b7-e414-4c33-834d-c785e07c949f",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.16,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite25",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 576
+                          },
+                          {
+                            "x": 24,
+                            "y": 576
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite26",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 576
+                          },
+                          {
+                            "x": 24,
+                            "y": 576
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite27",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 576
+                          },
+                          {
+                            "x": 24,
+                            "y": 576
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite28",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 576
+                          },
+                          {
+                            "x": 24,
+                            "y": 576
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite29",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 576
+                          },
+                          {
+                            "x": 24,
+                            "y": 576
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite30",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 38
+                          },
+                          {
+                            "x": 564,
+                            "y": 576
+                          },
+                          {
+                            "x": 24,
+                            "y": 576
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "BG_1"
+          },
+          {
+            "objectName": "cloud_1"
+          },
+          {
+            "objectName": "nen"
+          },
+          {
+            "objectName": "Nchi_dan"
+          },
+          {
+            "objectName": "dat_bay"
+          },
+          {
+            "objectName": "dat_bay2"
+          },
+          {
+            "objectName": "tre"
+          },
+          {
+            "objectName": "da_khac"
+          },
+          {
+            "objectName": "da_big"
+          },
+          {
+            "objectName": "dientho"
+          },
+          {
+            "objectName": "chankinh1"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "cloud_1",
+                "=",
+                "cloud_1.X() + 30 * TimeDelta()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "cloud_1",
+                ">",
+                "SceneWindowWidth()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetX"
+              },
+              "parameters": [
+                "cloud_1",
+                "=",
+                "-cloud_1.Width()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "dat_bay",
+                "=",
+                "dat_bay.Y() + dat_bay.Variable(Huong) * dat_bay.Variable(TocDo) * TimeDelta()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "dat_bay",
+                "<",
+                "dat_bay.Variable(YGoc) - 240"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "dat_bay",
+                "Huong",
+                "<",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "dat_bay",
+                "Huong",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "dat_bay",
+                ">",
+                " dat_bay.Variable(YGoc) + 40"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "dat_bay",
+                "Huong",
+                ">",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "dat_bay",
+                "Huong",
+                "=",
+                "-1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetY"
+              },
+              "parameters": [
+                "dat_bay2",
+                "=",
+                "dat_bay2.Y() + dat_bay2.Variable(Huong) * dat_bay2.Variable(TocDo) * TimeDelta()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "dat_bay2",
+                "<",
+                "dat_bay2.Variable(YGoc) - 40"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "dat_bay2",
+                "Huong",
+                "<",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "dat_bay2",
+                "Huong",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "dat_bay2",
+                ">",
+                " dat_bay2.Variable(YGoc) + 240"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "dat_bay2",
+                "Huong",
+                ">",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "dat_bay2",
+                "Huong",
+                "=",
+                "-1"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300,
+                "shadowDistance": 2000
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "shadowRenderingMode": "fittedToCameraView",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": []
+}
