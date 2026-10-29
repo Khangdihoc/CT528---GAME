@@ -65,314 +65,10 @@
   "resources": {
     "resources": [
       {
-        "file": "bggame-02.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "bggame-02.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "caichuareu-03.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "caichuareu-03.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "rock-1-04.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "rock-1-04.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Asset 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Asset 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Asset3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Asset3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Asset 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Asset 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Bầu trời pixel và núi tiên cảnh.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Bầu trời pixel và núi tiên cảnh.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Phong cảnh núi rừng pixel art thanh bình.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Phong cảnh núi rừng pixel art thanh bình.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "caichuareu-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "caichuareu-2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "New Piskel (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "New Piskel (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite4",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite5",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite6",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite7",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite8",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite9",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite10",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite11",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite12",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite13",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite14.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite14",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite15.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite15",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite16.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite16",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite17",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite18.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite18",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite19.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite19",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite20.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite20",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite21.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite21",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite22.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite22",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Detail 5 đã tô.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Detail 5 đã tô.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Bầu trời pixel và núi tiên cảnh2.png",
         "kind": "image",
         "metadata": "",
         "name": "Bầu trời pixel và núi tiên cảnh2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/may-01x.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/may-01x.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Detail-53.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Detail-53.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/dirt.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/dirt.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -385,82 +81,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/chap-1-nen.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/chap-1-nen.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/chap-1-nen@3x.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/chap-1-nen@3x.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/nenn.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/nenn.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "chap-1-nen.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "chap-1-nen.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "dat.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "dat.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "dat-nho.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "dat-nho.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/chap-1-nen_pixel_160x32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/chap-1-nen_pixel_160x32.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite23.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite23",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "chap-1-nen_pixel_160x32 (1).png",
         "kind": "image",
         "metadata": "",
         "name": "chap-1-nen_pixel_160x32 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "C:/Users/anngu_4ydz2un/Downloads/van-go-32x32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "C:/Users/anngu_4ydz2un/Downloads/van-go-32x32.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -473,30 +97,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/dat-1cube.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/dat-1cube.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/dat-bay.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/dat-bay.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/dat-mini.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/dat-mini.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets_dat-mini.png",
         "kind": "image",
         "metadata": "",
@@ -505,66 +105,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/dat-nho_32x32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/dat-nho_32x32.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "dat-nho_32x32 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "dat-nho_32x32 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/van-go-32x32.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/van-go-32x32.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "van-go-32x32 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "van-go-32x32 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "dirt.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "dirt.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/New image.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "New image",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/tre.png",
         "kind": "image",
         "metadata": "",
         "name": "assets/tre.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/da-khac.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets/da-khac.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -585,26 +129,10 @@
         "userAdded": false
       },
       {
-        "file": "assets/NewSprite24.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite24.png\"}",
-        "name": "NewSprite24",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "dientho (1).png",
         "kind": "image",
         "metadata": "",
         "name": "dientho (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "chankinh1 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "chankinh1 (1).png",
         "smoothed": true,
         "userAdded": false
       },
@@ -688,7 +216,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333347,
+        "zoomFactor": 0.38958562738273006,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1275,10 +803,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -1424,10 +952,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -1512,10 +1040,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -1642,10 +1170,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -1711,10 +1239,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
