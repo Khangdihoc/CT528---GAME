@@ -367,6 +367,54 @@
         "name": "Bầu trời pixel và núi tiên cảnh4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/chankinh1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chankinh1",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chankinh2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chankinh2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chankinh3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chankinh3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chankinh4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chankinh4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chankinh5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chankinh5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/chankinh6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "chankinh6",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -1561,17 +1609,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "chankinh1",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.16,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite25",
+                      "image": "chankinh1",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1587,27 +1635,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 24,
-                            "y": 38
+                            "x": 10,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 38
+                            "x": 310,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 576
+                            "x": 310,
+                            "y": 320
                           },
                           {
-                            "x": 24,
-                            "y": 576
+                            "x": 10,
+                            "y": 320
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite26",
+                      "image": "chankinh2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1623,27 +1671,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 24,
-                            "y": 38
+                            "x": 10,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 38
+                            "x": 310,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 576
+                            "x": 310,
+                            "y": 320
                           },
                           {
-                            "x": 24,
-                            "y": 576
+                            "x": 10,
+                            "y": 320
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite27",
+                      "image": "chankinh3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1659,27 +1707,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 24,
-                            "y": 38
+                            "x": 10,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 38
+                            "x": 310,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 576
+                            "x": 310,
+                            "y": 320
                           },
                           {
-                            "x": 24,
-                            "y": 576
+                            "x": 10,
+                            "y": 320
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite28",
+                      "image": "chankinh4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1695,27 +1743,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 24,
-                            "y": 38
+                            "x": 10,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 38
+                            "x": 310,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 576
+                            "x": 310,
+                            "y": 320
                           },
                           {
-                            "x": 24,
-                            "y": 576
+                            "x": 10,
+                            "y": 320
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite29",
+                      "image": "chankinh5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1731,27 +1779,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 24,
-                            "y": 38
+                            "x": 10,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 38
+                            "x": 310,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 576
+                            "x": 310,
+                            "y": 320
                           },
                           {
-                            "x": 24,
-                            "y": 576
+                            "x": 10,
+                            "y": 320
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite30",
+                      "image": "chankinh6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1767,20 +1815,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 24,
-                            "y": 38
+                            "x": 10,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 38
+                            "x": 310,
+                            "y": 10
                           },
                           {
-                            "x": 564,
-                            "y": 576
+                            "x": 310,
+                            "y": 320
                           },
                           {
-                            "x": 24,
-                            "y": 576
+                            "x": 10,
+                            "y": 320
                           }
                         ]
                       ]
