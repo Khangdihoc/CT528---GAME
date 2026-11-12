@@ -575,6 +575,134 @@
         "name": "NewSprite15",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Idle 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle 01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Idle 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle 02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Idle 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle 03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Idle 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle 04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Idle 05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle 05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Idle 06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle 06.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Idle 07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle 07.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Idle 08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle 08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C1/da-khac.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C1/da-khac.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C1/dientho (1).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"C1/dientho (1).png\",\"extension\":\".png\"}",
+        "name": "C1/dientho (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite17",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite18",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite21",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -2394,7 +2522,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.1644839130493773,
+        "zoomFactor": 0.2531414001298672,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -2853,6 +2981,303 @@
               "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":2,\"dimY\":4,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[657,658],[697,698],[737,738],[777,778]]}]}"
             }
           ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "flippedX": true,
+          "height": 288,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bephong_2",
+          "persistentUuid": "62e23234-5567-44b5-bca9-d674a5be2f49",
+          "width": 118.8,
+          "x": 3316,
+          "y": 796,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "phitieu2",
+          "persistentUuid": "b9c20394-0a1d-40d6-97b9-dfdbf12bb415",
+          "width": 0,
+          "x": 3298,
+          "y": 910,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 92,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wood3",
+          "persistentUuid": "fb0fa18d-048a-47ac-ab37-cea059d2fbec",
+          "width": 1932,
+          "x": 3865,
+          "y": 996,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":42,\"dimY\":2,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203,202,203],[213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214,213,214]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wood3",
+          "persistentUuid": "ba386dae-f40b-4bcd-9e6c-dd61b9057091",
+          "width": 448,
+          "x": 4007,
+          "y": 583,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":7,\"dimY\":1,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[0,0,0,0,0,0,0]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 240,
+          "keepRatio": true,
+          "layer": "",
+          "name": "house3",
+          "persistentUuid": "a52b9abf-a807-4cd5-a2a0-787e1b9f02c4",
+          "width": 280,
+          "x": 3994,
+          "y": 363,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":7,\"dimY\":6,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[427,428,429,430,431,432,433],[467,468,469,470,471,472,473],[507,508,509,510,511,512,513],[547,548,549,550,551,552,553],[587,588,589,590,591,592,593],[627,628,629,630,631,632,633]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 224,
+          "keepRatio": true,
+          "layer": "",
+          "name": "house3",
+          "persistentUuid": "f770bf2b-d3d3-483f-b11e-b9d724202d9c",
+          "width": 256,
+          "x": 5259,
+          "y": 783,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":8,\"dimY\":7,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[81,82,83,84,85,86,87,88],[121,122,123,124,125,126,127,128],[161,162,163,164,165,166,167,168],[201,202,203,204,205,206,207,208],[241,242,243,244,245,246,247,248],[281,282,283,284,285,286,287,288],[321,322,323,324,325,326,327,328]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "checkpoint3",
+          "persistentUuid": "f5105be7-b48b-4254-bdd9-273fa56f05ad",
+          "width": 0,
+          "x": 3873,
+          "y": 912,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 97,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wood3",
+          "persistentUuid": "b924df43-5af6-4866-bc62-0c7ec5ff0d37",
+          "width": 838,
+          "x": 4941,
+          "y": 340,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":26,\"dimY\":3,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[215,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[5,6,5,6,5,6,5,6,5,6,5,6,5,6,5,6,5,6,5,6,5,6,5,6,5,6],[16,17,16,17,16,17,16,17,16,17,16,17,16,17,16,17,16,17,16,17,16,17,16,17,16,17]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 240,
+          "keepRatio": true,
+          "layer": "",
+          "name": "datbay",
+          "persistentUuid": "18c1ee94-e5ec-4eb3-a339-b31f9e965cd5",
+          "width": 240,
+          "x": 4543,
+          "y": 304,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 175,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dientho",
+          "persistentUuid": "bf4620f8-af97-47d3-9907-e3f50ccca770",
+          "width": 175,
+          "x": 5612,
+          "y": 206,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 240,
+          "keepRatio": true,
+          "layer": "",
+          "name": "datbay",
+          "persistentUuid": "5e27db2f-197b-41e8-9ad0-d2013d60c97a",
+          "width": 240,
+          "x": 4810,
+          "y": 673,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 288,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bephong_3",
+          "persistentUuid": "b574694f-a5a0-44a5-8011-d3360b848866",
+          "width": 118.8,
+          "x": 4559,
+          "y": 184,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "phitieu3",
+          "persistentUuid": "a5e49e92-eaca-446c-a6c5-76d3bf137ff0",
+          "width": 0,
+          "x": 4632,
+          "y": 300,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "flippedX": true,
+          "height": 288,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bephong_3",
+          "persistentUuid": "46804faf-d294-4bbf-8526-f40d0241d907",
+          "width": 118.8,
+          "x": 4990,
+          "y": 797,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "phitieu3",
+          "persistentUuid": "e4246618-3f9b-490f-a8c8-ce17489530d0",
+          "width": 0,
+          "x": 4975,
+          "y": 913,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chankinh2",
+          "persistentUuid": "7b215747-3a0f-4eba-b6bf-6002a189edd3",
+          "width": 60,
+          "x": 5659,
+          "y": 284,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
           "initialVariables": []
         }
       ],
@@ -5185,6 +5610,371 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "datbay",
+          "persistentUuid": "dc683b06-82a8-42a2-bce5-62afa4adda63",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "C1/da-khac.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 75
+                          },
+                          {
+                            "x": 305,
+                            "y": 75
+                          },
+                          {
+                            "x": 305,
+                            "y": 270
+                          },
+                          {
+                            "x": 20,
+                            "y": 270
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dientho",
+          "persistentUuid": "9f7a1e1f-9ca0-4384-a6a9-367b0529ddf2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "C1/dientho (1)",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "C1/dientho (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 465,
+                            "y": 0
+                          },
+                          {
+                            "x": 465,
+                            "y": 465
+                          },
+                          {
+                            "x": 0,
+                            "y": 465
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "chankinh2",
+          "persistentUuid": "ab128ad6-9d91-4ca7-a948-5d409467d03f",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -5271,6 +6061,15 @@
               },
               {
                 "objectName": "checkpoint3"
+              },
+              {
+                "objectName": "datbay"
+              },
+              {
+                "objectName": "dientho"
+              },
+              {
+                "objectName": "chankinh2"
               }
             ]
           }
