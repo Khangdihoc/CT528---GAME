@@ -9312,6 +9312,23 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 452,
+          "keepRatio": true,
+          "layer": "",
+          "name": "skip_button",
+          "persistentUuid": "d04de2ff-b6eb-49e4-9d43-500e2c6e5cdd",
+          "width": 452,
+          "x": 1349,
+          "y": 602,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -9436,18 +9453,6 @@
               ]
             }
           ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "persistentUuid": "c854ebd1-1906-4b54-85ad-ea3bf656fd10",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
         }
       ],
       "objectsFolderStructure": {
@@ -9458,9 +9463,6 @@
           },
           {
             "objectName": "Khung_dan_truyen"
-          },
-          {
-            "objectName": "NewSprite"
           }
         ]
       },
