@@ -959,6 +959,78 @@
         "name": "Khung-story-va-font-chu/bg/Starting_UI.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/Logo.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Logo",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Logo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Logo2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Logo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Logo3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Logo4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Logo4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Logo5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Logo5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Logo6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Logo6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Logo7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Logo7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Logo8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Logo8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Khung-story-va-font-chu/logo-idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Khung-story-va-font-chu/logo-idle.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -7995,6 +8067,23 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 479,
+          "keepRatio": true,
+          "layer": "",
+          "name": "logo_idle",
+          "persistentUuid": "4d92b3cc-37cd-42bb-9a0d-89eb48930f54",
+          "width": 718,
+          "x": 860,
+          "y": 110,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -8010,13 +8099,303 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Logo",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
-                  "sprites": []
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Logo",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 344
+                          },
+                          {
+                            "x": 24,
+                            "y": 344
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Logo2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 344
+                          },
+                          {
+                            "x": 24,
+                            "y": 344
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Logo3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 344
+                          },
+                          {
+                            "x": 24,
+                            "y": 344
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Logo4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 344
+                          },
+                          {
+                            "x": 24,
+                            "y": 344
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Logo5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 344
+                          },
+                          {
+                            "x": 24,
+                            "y": 344
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Logo6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 344
+                          },
+                          {
+                            "x": 24,
+                            "y": 344
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Logo7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 344
+                          },
+                          {
+                            "x": 24,
+                            "y": 344
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Logo8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 60
+                          },
+                          {
+                            "x": 613,
+                            "y": 344
+                          },
+                          {
+                            "x": 24,
+                            "y": 344
+                          }
+                        ]
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -8082,6 +8461,67 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "logo_idle",
+          "persistentUuid": "00ab55b2-5b7d-4c3e-aed8-6f3708e2c3b7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Khung-story-va-font-chu/logo-idle.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 77,
+                            "y": 51
+                          },
+                          {
+                            "x": 1439,
+                            "y": 51
+                          },
+                          {
+                            "x": 1439,
+                            "y": 957
+                          },
+                          {
+                            "x": 77,
+                            "y": 957
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8092,6 +8532,9 @@
           },
           {
             "objectName": "Starting_BG"
+          },
+          {
+            "objectName": "logo_idle"
           }
         ]
       },
