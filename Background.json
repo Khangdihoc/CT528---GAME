@@ -775,6 +775,118 @@
         "name": "C3/vachphai3.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "C3/dabu3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C3/dabu3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C3/daman3-nho.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C3/daman3-nho.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C3/ta.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C3/ta.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C3/tuong.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C3/tuong.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C3/dadai3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C3/dadai3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dientho (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/dientho (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C3/chankinh3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C3/chankinh3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite34",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -6356,7 +6468,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3411856023473453,
+        "zoomFactor": 0.3192894589690168,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -6371,7 +6483,7 @@
           "height": 1108,
           "keepRatio": true,
           "layer": "",
-          "name": "BG",
+          "name": "BG1",
           "persistentUuid": "e11f5745-e3bc-4541-a1ba-84e83db20726",
           "width": 1986,
           "x": -42,
@@ -6425,8 +6537,8 @@
           "name": "phienda",
           "persistentUuid": "bd3717e8-346d-47dc-b4e0-3507688cd6b6",
           "width": 155,
-          "x": 360,
-          "y": 712,
+          "x": 306,
+          "y": 380,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -6442,9 +6554,280 @@
           "name": "phienda",
           "persistentUuid": "b8b4cab5-d77a-42da-a8a9-23755e7dbc49",
           "width": 155,
-          "x": 579,
-          "y": 537,
+          "x": 797,
+          "y": 239,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 629,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dabu",
+          "persistentUuid": "b4f7d87b-6770-4ace-9998-08e21058926b",
+          "width": 629,
+          "x": 708,
+          "y": 511,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "danho",
+          "persistentUuid": "b614aeed-37ef-46b3-849a-7c6364ae663d",
+          "width": 104,
+          "x": 1410,
+          "y": 728,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "danho",
+          "persistentUuid": "c158a6ef-16bb-44d6-8187-055e312a4779",
+          "width": 104,
+          "x": 1650,
+          "y": 879,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.06716818914,
+          "height": 1108.78774852,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BG2",
+          "persistentUuid": "1905b797-031e-4fa6-96ab-a81eae037319",
+          "width": 1986,
+          "x": 1934,
+          "y": -22,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chidan",
+          "persistentUuid": "0d0ed316-e1bc-4a47-9567-8349b13a87c8",
+          "width": 0,
+          "x": 721,
+          "y": 656,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "danho",
+          "persistentUuid": "927023fd-9014-4e5e-b0fb-b5196f2bf281",
+          "width": 104,
+          "x": 1655,
+          "y": 477,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "danho",
+          "persistentUuid": "a00724d3-6883-4763-853a-431be8e64c25",
+          "width": 104,
+          "x": 2069,
+          "y": 274,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "danho",
+          "persistentUuid": "06e654dd-b2a7-4287-a5e9-244327685f0e",
+          "width": 104,
+          "x": 2331,
+          "y": 699,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "danho",
+          "persistentUuid": "5d3914ba-6f2d-4994-b6d5-f25eef782248",
+          "width": 104,
+          "x": 2519,
+          "y": 339,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "danho",
+          "persistentUuid": "96296571-7b50-418b-a164-eae14725d760",
+          "width": 104,
+          "x": 3030,
+          "y": 822,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "danho",
+          "persistentUuid": "048b4c59-200e-4560-9638-c15e208644f3",
+          "width": 104,
+          "x": 2946,
+          "y": 412,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 156,
+          "keepRatio": true,
+          "layer": "",
+          "name": "tuong",
+          "persistentUuid": "899ebc5e-f5ed-4dde-be34-7086f5d8cd30",
+          "width": 156,
+          "x": 1198,
+          "y": 592,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 475,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dadai3",
+          "persistentUuid": "a0378e84-5ae7-4115-92db-02b05f54d88b",
+          "width": 475,
+          "x": 3450,
+          "y": 143,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 195,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dientho",
+          "persistentUuid": "4095b681-1b36-4f4e-a1ba-f623f4d786de",
+          "width": 195,
+          "x": 3611,
+          "y": 162,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 69,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chankinh3",
+          "persistentUuid": "d2c2d0fe-bdf0-4045-b46b-ab7ba00d21c6",
+          "width": 69,
+          "x": 3665,
+          "y": 240,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 493,
+          "keepRatio": true,
+          "layer": "",
+          "name": "dadai3",
+          "persistentUuid": "f145f69d-f8fb-493b-ab6f-9ed3bcd443ef",
+          "width": 493,
+          "x": 1283,
+          "y": 101,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6452,25 +6835,9 @@
       ],
       "objects": [
         {
-          "assetStoreId": "",
-          "name": "NewTileMap",
-          "persistentUuid": "0a434982-d5bd-4538-8c65-d287875ea697",
-          "type": "TileMap::SimpleTileMap",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "atlasImage": "",
-            "rowCount": 1,
-            "columnCount": 1,
-            "tileSize": 8,
-            "tilesWithHitBox": ""
-          }
-        },
-        {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "BG",
+          "name": "BG1",
           "persistentUuid": "37dda059-c0f6-4cd3-8487-abb97acda7e0",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -6649,22 +7016,748 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dabu",
+          "persistentUuid": "f20e5aa2-c806-4fab-99ef-bfeb502cb2ee",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "C3/dabu3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 116
+                          },
+                          {
+                            "x": 315,
+                            "y": 116
+                          },
+                          {
+                            "x": 315,
+                            "y": 238
+                          },
+                          {
+                            "x": 5,
+                            "y": 238
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "danho",
+          "persistentUuid": "4b43fb00-aa60-4d58-ae5d-a54872e172dd",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "C3/daman3-nho.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 57,
+                            "y": 7
+                          },
+                          {
+                            "x": 57,
+                            "y": 57
+                          },
+                          {
+                            "x": 7,
+                            "y": 57
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "BG2",
+          "persistentUuid": "91eb194b-69f7-45f1-be94-6e3120691b86",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "C3/ta.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 2752,
+                            "y": 0
+                          },
+                          {
+                            "x": 2752,
+                            "y": 1536
+                          },
+                          {
+                            "x": 0,
+                            "y": 1536
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "chidan",
+          "persistentUuid": "9e5f0f2e-353b-4d6a-af0a-b57f5a6042df",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/bang_chi_dan_chapter1_32x32 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 90,
+                            "y": 12
+                          },
+                          {
+                            "x": 90,
+                            "y": 87
+                          },
+                          {
+                            "x": 12,
+                            "y": 87
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "tuong",
+          "persistentUuid": "3507454c-07ed-4f09-9ec7-ce00917e2495",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "C3/tuong.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 1
+                          },
+                          {
+                            "x": 54,
+                            "y": 1
+                          },
+                          {
+                            "x": 54,
+                            "y": 63
+                          },
+                          {
+                            "x": 10,
+                            "y": 63
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dadai3",
+          "persistentUuid": "dafc6caa-dd10-4f9e-952a-6d2f16eff299",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "C3/dadai3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 136
+                          },
+                          {
+                            "x": 315,
+                            "y": 136
+                          },
+                          {
+                            "x": 315,
+                            "y": 204
+                          },
+                          {
+                            "x": 0,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dientho",
+          "persistentUuid": "37f22c65-0b20-48ef-98a1-f81e145f7872",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/dientho (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 465,
+                            "y": 0
+                          },
+                          {
+                            "x": 465,
+                            "y": 465
+                          },
+                          {
+                            "x": 0,
+                            "y": 465
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "chankinh3",
+          "persistentUuid": "daa248a6-d6e8-44d1-85a6-1a4c7b8cb62e",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite31",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite32",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite33",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite34",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 10
+                          },
+                          {
+                            "x": 310,
+                            "y": 320
+                          },
+                          {
+                            "x": 10,
+                            "y": 320
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "NewTileMap"
+            "objectName": "BG1"
           },
           {
-            "objectName": "BG"
+            "objectName": "BG2"
           },
           {
             "objectName": "phienda"
           },
           {
             "objectName": "vachda"
+          },
+          {
+            "objectName": "dabu"
+          },
+          {
+            "objectName": "tuong"
+          },
+          {
+            "objectName": "danho"
+          },
+          {
+            "objectName": "chidan"
+          },
+          {
+            "objectName": "dadai3"
+          },
+          {
+            "objectName": "dientho"
+          },
+          {
+            "objectName": "chankinh3"
           }
         ]
       },
@@ -6763,10 +7856,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "TileMap",
-          "type": "TileMap::TileMapBehavior"
         }
       ]
     }
