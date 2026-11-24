@@ -1031,12 +1031,458 @@
         "name": "Khung-story-va-font-chu/logo-idle.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "C1/da big.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C1/da big.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C1/da-big (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C1/da-big (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Bộ giao diện pixel võ hiệp cổ điển.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bộ giao diện pixel võ hiệp cổ điển.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Khung-story-va-font-chu/HP-UI.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Khung-story-va-font-chu/HP-UI.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C:/Users/anngu_4ydz2un/Downloads/nút-start-chọn.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:/Users/anngu_4ydz2un/Downloads/nút-start-chọn.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-start-chọn.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-start-chọn.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-start.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-start.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-hd.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-hd.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-hd-chọn.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-hd-chọn.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-quit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-quit.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-quit-chọn.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-quit-chọn.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
-  "objects": [],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "name": "UI_HP",
+      "persistentUuid": "5e3a020a-2d5d-4a88-abcd-1459b6d5cdce",
+      "type": "TileMap::SimpleTileMap",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "atlasImage": "Khung-story-va-font-chu/HP-UI.png",
+        "rowCount": 16,
+        "columnCount": 22,
+        "tileSize": 64,
+        "tilesWithHitBox": ""
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "button_start",
+      "persistentUuid": "f8d05b53-1928-4ea9-8b16-e55d00d30682",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "hover",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-start-chọn.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 197,
+                        "y": 387
+                      },
+                      {
+                        "x": 702,
+                        "y": 387
+                      },
+                      {
+                        "x": 702,
+                        "y": 513
+                      },
+                      {
+                        "x": 197,
+                        "y": 513
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "no-hover",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-start.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 197,
+                        "y": 387
+                      },
+                      {
+                        "x": 702,
+                        "y": 387
+                      },
+                      {
+                        "x": 702,
+                        "y": 513
+                      },
+                      {
+                        "x": 197,
+                        "y": 513
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "button_huongdan",
+      "persistentUuid": "48e8ad94-c82f-4964-9132-e5dc79748da5",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "no-hover",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-hd.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 118,
+                        "y": 383
+                      },
+                      {
+                        "x": 783,
+                        "y": 383
+                      },
+                      {
+                        "x": 783,
+                        "y": 549
+                      },
+                      {
+                        "x": 118,
+                        "y": 549
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-hd-chọn.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 118,
+                        "y": 383
+                      },
+                      {
+                        "x": 783,
+                        "y": 383
+                      },
+                      {
+                        "x": 783,
+                        "y": 549
+                      },
+                      {
+                        "x": 118,
+                        "y": 549
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "button_quitgame",
+      "persistentUuid": "865832f1-a9b1-469a-befc-93048a642129",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "no-hover",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Khung-story-va-font-chu/UI-Button/Button-no-hover/nút-quit.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 118,
+                        "y": 383
+                      },
+                      {
+                        "x": 783,
+                        "y": 383
+                      },
+                      {
+                        "x": 783,
+                        "y": 549
+                      },
+                      {
+                        "x": 118,
+                        "y": 549
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hover",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Khung-story-va-font-chu/UI-Button/Button-hover/nút-quit-chọn.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 118,
+                        "y": 383
+                      },
+                      {
+                        "x": 783,
+                        "y": 383
+                      },
+                      {
+                        "x": 783,
+                        "y": 549
+                      },
+                      {
+                        "x": 118,
+                        "y": 549
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "UI_HP"
+      },
+      {
+        "objectName": "button_start"
+      },
+      {
+        "objectName": "button_huongdan"
+      },
+      {
+        "objectName": "button_quitgame"
+      }
+    ]
   },
   "objectsGroups": [],
   "variables": [],
@@ -2101,17 +2547,16 @@
           ],
           "animations": [
             {
-              "name": "da-big (1)",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "da-big (1)",
+                      "image": "C1/da-big (1).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2824,6 +3269,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "TileMap",
+          "type": "TileMap::TileMapBehavior"
         }
       ]
     },
@@ -8017,6 +8466,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "TileMap",
+          "type": "TileMap::TileMapBehavior"
         }
       ]
     },
@@ -8043,7 +8496,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.3411856023473448,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -8081,6 +8534,57 @@
           "x": 860,
           "y": 110,
           "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 504,
+          "keepRatio": true,
+          "layer": "",
+          "name": "button_start",
+          "persistentUuid": "98b42cd9-0be2-4c0a-8ced-61e3e13b047d",
+          "width": 504,
+          "x": 960,
+          "y": 408,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 384,
+          "keepRatio": true,
+          "layer": "",
+          "name": "button_huongdan",
+          "persistentUuid": "d020887f-d757-4634-8bf6-551f260eabb3",
+          "width": 384,
+          "x": 1020,
+          "y": 555,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 384,
+          "keepRatio": true,
+          "layer": "",
+          "name": "button_quitgame",
+          "persistentUuid": "03a7a359-3dc3-4f37-aea5-076cfb87e0d2",
+          "width": 384,
+          "x": 1021,
+          "y": 649,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8633,6 +9137,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "TileMap",
+          "type": "TileMap::TileMapBehavior"
         }
       ]
     }
