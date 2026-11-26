@@ -20,7 +20,7 @@
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "version": "1.0.0",
-    "name": "Background",
+    "name": "Background - Copy",
     "description": "",
     "author": "",
     "windowWidth": 1920,
@@ -1065,7 +1065,7 @@
         "userAdded": false
       },
       {
-        "file": "C:/Users/anngu_4ydz2un/Downloads/nút-start-chọn.png",
+        "file": "nút-start-chọn.png",
         "kind": "image",
         "metadata": "",
         "name": "C:/Users/anngu_4ydz2un/Downloads/nút-start-chọn.png",
@@ -1165,6 +1165,14 @@
         "kind": "image",
         "metadata": "",
         "name": "Khung-story-va-font-chu/bg/gamewin.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/lò xo.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/lò xo",
         "smoothed": true,
         "userAdded": false
       }
