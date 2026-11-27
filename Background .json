@@ -1535,6 +1535,366 @@
         "name": "../runspritesheet.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "tancong8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tancong8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tancong7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tancong7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tancong6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tancong6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tancong5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tancong5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tancong9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tancong9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "C:/Users/anngu_4ydz2un/Downloads/tancong7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:/Users/anngu_4ydz2un/Downloads/tancong7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tancong10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tancong10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tancong11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tancong11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "luatancong9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "luatancong9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "3ne.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3ne.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "2ne.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2ne.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "1ne.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1ne.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/lò xo2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/lò xo2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/lò xo3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Detail/lò xo3.png\"}",
+        "name": "Detail/lò xo3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/gai1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/gai1",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/gai3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/gai3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/gai2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/gai2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/gai4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/gai4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite43.png\"}",
+        "name": "NewSprite43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite44.png\"}",
+        "name": "NewSprite44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite45.png\"}",
+        "name": "NewSprite45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite46.png\"}",
+        "name": "NewSprite46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite47.png\"}",
+        "name": "NewSprite47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/con lăn gỗ.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/con lăn gỗ",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/con lăn đứng.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/con lăn đứng",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/nền gỗ/gỗ 1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Detail/nền gỗ/gỗ 1.png\"}",
+        "name": "Detail/nền gỗ/gỗ 1",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/Gạch nền gỗ cam pixel art.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Detail/Gạch nền gỗ cam pixel art.png\"}",
+        "name": "Detail/Gạch nền gỗ cam pixel art",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/thùng gỗ.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/thùng gỗ",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/thùng gỗ2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/thùng gỗ2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/khúc gỗ.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/khúc gỗ",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/lưỡi tròn.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/lưỡi tròn",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Detail/Mặt tiền nhà cổ pixel art.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Detail/Mặt tiền nhà cổ pixel art",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -10806,6 +11166,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Player",
+          "persistentUuid": "a91c5c2a-384a-4788-92a0-c9f234bd1d72",
+          "width": 0,
+          "x": 30,
+          "y": 377,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -10897,16 +11273,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/gai1",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/gai1.png",
+                      "image": "Detail/gai1",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -10922,20 +11299,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 293,
-                            "y": 123
+                            "x": 27,
+                            "y": 11
                           },
                           {
-                            "x": 1481,
-                            "y": 123
+                            "x": 134,
+                            "y": 11
                           },
                           {
-                            "x": 1481,
-                            "y": 798
+                            "x": 134,
+                            "y": 72
                           },
                           {
-                            "x": 293,
-                            "y": 798
+                            "x": 27,
+                            "y": 72
                           }
                         ]
                       ]
@@ -10958,16 +11335,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/lò xo",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/lò xo.png",
+                      "image": "Detail/lò xo3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -10983,20 +11361,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 215,
-                            "y": 204
+                            "x": 19,
+                            "y": 18
                           },
                           {
-                            "x": 1186,
-                            "y": 204
+                            "x": 102,
+                            "y": 18
                           },
                           {
-                            "x": 1186,
-                            "y": 1037
+                            "x": 102,
+                            "y": 89
                           },
                           {
-                            "x": 215,
-                            "y": 1037
+                            "x": 19,
+                            "y": 89
                           }
                         ]
                       ]
@@ -11029,7 +11407,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/tim/tim1.png",
+                      "image": "NewSprite43",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11045,27 +11423,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 179,
-                            "y": 250
+                            "x": 19,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 250
+                            "x": 148,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 1315
+                            "x": 148,
+                            "y": 142
                           },
                           {
-                            "x": 179,
-                            "y": 1315
+                            "x": 19,
+                            "y": 142
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/tim/tim2.png",
+                      "image": "NewSprite44",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11081,27 +11459,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 179,
-                            "y": 250
+                            "x": 19,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 250
+                            "x": 148,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 1315
+                            "x": 148,
+                            "y": 142
                           },
                           {
-                            "x": 179,
-                            "y": 1315
+                            "x": 19,
+                            "y": 142
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/tim/tim3.png",
+                      "image": "NewSprite45",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11117,27 +11495,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 179,
-                            "y": 250
+                            "x": 19,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 250
+                            "x": 148,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 1315
+                            "x": 148,
+                            "y": 142
                           },
                           {
-                            "x": 179,
-                            "y": 1315
+                            "x": 19,
+                            "y": 142
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/tim/tim4.png",
+                      "image": "NewSprite46",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11153,27 +11531,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 179,
-                            "y": 250
+                            "x": 19,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 250
+                            "x": 148,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 1315
+                            "x": 148,
+                            "y": 142
                           },
                           {
-                            "x": 179,
-                            "y": 1315
+                            "x": 19,
+                            "y": 142
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/tim/tim5.png",
+                      "image": "NewSprite47",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11189,20 +11567,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 179,
-                            "y": 250
+                            "x": 19,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 250
+                            "x": 148,
+                            "y": 27
                           },
                           {
-                            "x": 1373,
-                            "y": 1315
+                            "x": 148,
+                            "y": 142
                           },
                           {
-                            "x": 179,
-                            "y": 1315
+                            "x": 19,
+                            "y": 142
                           }
                         ]
                       ]
@@ -11328,7 +11706,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite2x",
+                      "image": "NewSprite48",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11344,27 +11722,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 47,
-                            "y": 24
+                            "x": 5,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 24
+                            "x": 156,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 449
+                            "x": 156,
+                            "y": 50
                           },
                           {
-                            "x": 47,
-                            "y": 449
+                            "x": 5,
+                            "y": 50
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite13x",
+                      "image": "NewSprite49",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11380,27 +11758,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 47,
-                            "y": 24
+                            "x": 5,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 24
+                            "x": 156,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 449
+                            "x": 156,
+                            "y": 50
                           },
                           {
-                            "x": 47,
-                            "y": 449
+                            "x": 5,
+                            "y": 50
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite14x",
+                      "image": "NewSprite50",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11416,27 +11794,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 47,
-                            "y": 24
+                            "x": 5,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 24
+                            "x": 156,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 449
+                            "x": 156,
+                            "y": 50
                           },
                           {
-                            "x": 47,
-                            "y": 449
+                            "x": 5,
+                            "y": 50
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite15x",
+                      "image": "NewSprite51",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11452,27 +11830,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 47,
-                            "y": 24
+                            "x": 5,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 24
+                            "x": 156,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 449
+                            "x": 156,
+                            "y": 50
                           },
                           {
-                            "x": 47,
-                            "y": 449
+                            "x": 5,
+                            "y": 50
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite16x",
+                      "image": "NewSprite52",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11488,20 +11866,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 47,
-                            "y": 24
+                            "x": 5,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 24
+                            "x": 156,
+                            "y": 3
                           },
                           {
-                            "x": 1386,
-                            "y": 449
+                            "x": 156,
+                            "y": 50
                           },
                           {
-                            "x": 47,
-                            "y": 449
+                            "x": 5,
+                            "y": 50
                           }
                         ]
                       ]
@@ -11524,16 +11902,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/con lăn gỗ",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/con lăn gỗ.png",
+                      "image": "Detail/con lăn gỗ",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11549,20 +11928,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 67,
-                            "y": 147
+                            "x": 6,
+                            "y": 13
                           },
                           {
-                            "x": 1681,
-                            "y": 147
+                            "x": 154,
+                            "y": 13
                           },
                           {
-                            "x": 1681,
-                            "y": 768
+                            "x": 154,
+                            "y": 70
                           },
                           {
-                            "x": 67,
-                            "y": 768
+                            "x": 6,
+                            "y": 70
                           }
                         ]
                       ]
@@ -11593,16 +11972,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/con lăn đứng",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/con lăn đứng.png",
+                      "image": "Detail/con lăn đứng",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11618,20 +11998,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 289,
-                            "y": 228
+                            "x": 27,
+                            "y": 22
                           },
                           {
-                            "x": 1461,
-                            "y": 228
+                            "x": 134,
+                            "y": 22
                           },
                           {
-                            "x": 1461,
-                            "y": 681
+                            "x": 134,
+                            "y": 62
                           },
                           {
-                            "x": 289,
-                            "y": 681
+                            "x": 27,
+                            "y": 62
                           }
                         ]
                       ]
@@ -11662,16 +12042,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/nền gỗ/gỗ 1",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/nền gỗ/gỗ 1.png",
+                      "image": "Detail/nền gỗ/gỗ 1",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11687,20 +12068,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 248,
-                            "y": 290
+                            "x": 22,
+                            "y": 26
                           },
                           {
-                            "x": 1526,
-                            "y": 290
+                            "x": 138,
+                            "y": 26
                           },
                           {
-                            "x": 1526,
-                            "y": 633
+                            "x": 138,
+                            "y": 57
                           },
                           {
-                            "x": 248,
-                            "y": 633
+                            "x": 22,
+                            "y": 57
                           }
                         ]
                       ]
@@ -11731,16 +12112,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/Gạch nền gỗ cam pixel art",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/Gạch nền gỗ cam pixel art.png",
+                      "image": "Detail/Gạch nền gỗ cam pixel art",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11756,20 +12138,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 14,
-                            "y": 330
+                            "x": 1,
+                            "y": 24
                           },
                           {
-                            "x": 2159,
-                            "y": 330
+                            "x": 159,
+                            "y": 24
                           },
                           {
-                            "x": 2159,
-                            "y": 477
+                            "x": 159,
+                            "y": 35
                           },
                           {
-                            "x": 14,
-                            "y": 477
+                            "x": 1,
+                            "y": 35
                           }
                         ]
                       ]
@@ -11800,16 +12182,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/thùng gỗ",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/thùng gỗ.png",
+                      "image": "Detail/thùng gỗ",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11825,20 +12208,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 274,
-                            "y": 245
+                            "x": 33,
+                            "y": 30
                           },
                           {
-                            "x": 1038,
-                            "y": 245
+                            "x": 127,
+                            "y": 30
                           },
                           {
-                            "x": 1038,
-                            "y": 1005
+                            "x": 127,
+                            "y": 122
                           },
                           {
-                            "x": 274,
-                            "y": 1005
+                            "x": 33,
+                            "y": 122
                           }
                         ]
                       ]
@@ -11876,16 +12259,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/khúc gỗ",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/khúc gỗ.png",
+                      "image": "Detail/khúc gỗ",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11901,20 +12285,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 141,
-                            "y": 68
+                            "x": 10,
+                            "y": 5
                           },
                           {
-                            "x": 2030,
-                            "y": 68
+                            "x": 150,
+                            "y": 5
                           },
                           {
-                            "x": 2030,
-                            "y": 683
+                            "x": 150,
+                            "y": 50
                           },
                           {
-                            "x": 141,
-                            "y": 683
+                            "x": 10,
+                            "y": 50
                           }
                         ]
                       ]
@@ -11954,16 +12338,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/gai2",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/gai2.png",
+                      "image": "Detail/gai2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11979,20 +12364,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 295,
-                            "y": 123
+                            "x": 32,
+                            "y": 11
                           },
                           {
-                            "x": 1441,
-                            "y": 123
+                            "x": 128,
+                            "y": 11
                           },
                           {
-                            "x": 1441,
-                            "y": 487
+                            "x": 128,
+                            "y": 42
                           },
                           {
-                            "x": 295,
-                            "y": 487
+                            "x": 32,
+                            "y": 42
                           }
                         ]
                       ]
@@ -12023,16 +12408,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/gai3",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/gai3.png",
+                      "image": "Detail/gai3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12048,20 +12434,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 154,
-                            "y": 48
+                            "x": 25,
+                            "y": 4
                           },
                           {
-                            "x": 1456,
-                            "y": 48
+                            "x": 131,
+                            "y": 4
                           },
                           {
-                            "x": 1456,
-                            "y": 839
+                            "x": 131,
+                            "y": 73
                           },
                           {
-                            "x": 154,
-                            "y": 839
+                            "x": 25,
+                            "y": 73
                           }
                         ]
                       ]
@@ -12108,16 +12494,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/thùng gỗ",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/thùng gỗ.png",
+                      "image": "Detail/thùng gỗ2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12133,20 +12520,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 274,
-                            "y": 245
+                            "x": 33,
+                            "y": 30
                           },
                           {
-                            "x": 1038,
-                            "y": 245
+                            "x": 127,
+                            "y": 30
                           },
                           {
-                            "x": 1038,
-                            "y": 1005
+                            "x": 127,
+                            "y": 122
                           },
                           {
-                            "x": 274,
-                            "y": 1005
+                            "x": 33,
+                            "y": 122
                           }
                         ]
                       ]
@@ -12177,16 +12564,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/lưỡi tròn",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/lưỡi tròn.png",
+                      "image": "Detail/lưỡi tròn",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12202,20 +12590,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 144,
-                            "y": 42
+                            "x": 17,
+                            "y": 5
                           },
                           {
-                            "x": 1191,
-                            "y": 42
+                            "x": 143,
+                            "y": 5
                           },
                           {
-                            "x": 1191,
-                            "y": 1135
+                            "x": 143,
+                            "y": 136
                           },
                           {
-                            "x": 144,
-                            "y": 1135
+                            "x": 17,
+                            "y": 136
                           }
                         ]
                       ]
@@ -12238,16 +12626,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/Mặt tiền nhà cổ pixel art",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/Mặt tiền nhà cổ pixel art.png",
+                      "image": "Detail/Mặt tiền nhà cổ pixel art",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12263,20 +12652,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 146,
-                            "y": 87
+                            "x": 15,
+                            "y": 9
                           },
                           {
-                            "x": 1391,
-                            "y": 87
+                            "x": 145,
+                            "y": 9
                           },
                           {
-                            "x": 1391,
-                            "y": 958
+                            "x": 145,
+                            "y": 100
                           },
                           {
-                            "x": 146,
-                            "y": 958
+                            "x": 15,
+                            "y": 100
                           }
                         ]
                       ]
@@ -12367,16 +12756,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Detail/gai2",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Detail/gai2.png",
+                      "image": "Detail/gai4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12392,20 +12782,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 295,
-                            "y": 123
+                            "x": 32,
+                            "y": 11
                           },
                           {
-                            "x": 1441,
-                            "y": 123
+                            "x": 128,
+                            "y": 11
                           },
                           {
-                            "x": 1441,
-                            "y": 487
+                            "x": 128,
+                            "y": 42
                           },
                           {
-                            "x": 295,
-                            "y": 487
+                            "x": 32,
+                            "y": 42
                           }
                         ]
                       ]
@@ -12424,19 +12814,41 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "useRepeatedJump": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
-              "name": "",
+              "name": "tancong",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "../runspritesheet.png",
+                      "image": "1ne.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12452,20 +12864,392 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 38,
-                            "y": 19
+                            "x": 11,
+                            "y": 11
                           },
                           {
-                            "x": 359,
-                            "y": 19
+                            "x": 191,
+                            "y": 11
                           },
                           {
-                            "x": 359,
-                            "y": 180
+                            "x": 191,
+                            "y": 204
                           },
                           {
-                            "x": 38,
-                            "y": 180
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "2ne.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "3ne.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tancong11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tancong10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "C:/Users/anngu_4ydz2un/Downloads/tancong7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tancong9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "luatancong",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "luatancong7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "luatancong7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "luatancong8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "luatancong9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 11
+                          },
+                          {
+                            "x": 191,
+                            "y": 204
+                          },
+                          {
+                            "x": 11,
+                            "y": 204
                           }
                         ]
                       ]
@@ -13419,6 +14203,10 @@
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
         },
         {
           "name": "Resizable",
