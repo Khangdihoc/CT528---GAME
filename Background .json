@@ -2007,6 +2007,70 @@
         "name": "Player6",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite60",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -2656,6 +2720,319 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "da_checkpoint_quaman",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite53",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 77,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 172
+                      },
+                      {
+                        "x": 77,
+                        "y": 172
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite54",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 77,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 172
+                      },
+                      {
+                        "x": 77,
+                        "y": 172
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite55",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 77,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 172
+                      },
+                      {
+                        "x": 77,
+                        "y": 172
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite56",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 77,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 172
+                      },
+                      {
+                        "x": 77,
+                        "y": 172
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite57",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 77,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 172
+                      },
+                      {
+                        "x": 77,
+                        "y": 172
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite58",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 77,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 172
+                      },
+                      {
+                        "x": 77,
+                        "y": 172
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite59",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 77,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 172
+                      },
+                      {
+                        "x": 77,
+                        "y": 172
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite60",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 77,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 18
+                      },
+                      {
+                        "x": 214,
+                        "y": 172
+                      },
+                      {
+                        "x": 77,
+                        "y": 172
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -2687,6 +3064,9 @@
       },
       {
         "objectName": "gamewin"
+      },
+      {
+        "objectName": "da_checkpoint_quaman"
       }
     ]
   },
@@ -10759,7 +11139,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.34118560234734974,
+        "zoomFactor": 0.27050126039625877,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11288,8 +11668,8 @@
           "name": "Player",
           "persistentUuid": "a91c5c2a-384a-4788-92a0-c9f234bd1d72",
           "width": 0,
-          "x": 483,
-          "y": 286,
+          "x": 493,
+          "y": 280,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -12951,306 +13331,6 @@
           ],
           "animations": [
             {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.14,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 358,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 557
-                          },
-                          {
-                            "x": 358,
-                            "y": 557
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 358,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 557
-                          },
-                          {
-                            "x": 358,
-                            "y": 557
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 358,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 557
-                          },
-                          {
-                            "x": 358,
-                            "y": 557
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 358,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 557
-                          },
-                          {
-                            "x": 358,
-                            "y": 557
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 358,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 557
-                          },
-                          {
-                            "x": 358,
-                            "y": 557
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 358,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 557
-                          },
-                          {
-                            "x": 358,
-                            "y": 557
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 358,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 557
-                          },
-                          {
-                            "x": 358,
-                            "y": 557
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 358,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 364
-                          },
-                          {
-                            "x": 538,
-                            "y": 557
-                          },
-                          {
-                            "x": 358,
-                            "y": 557
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "name": "Player",
               "useMultipleDirections": false,
               "directions": [
@@ -13277,20 +13357,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 358,
-                            "y": 364
+                            "x": 24,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 364
+                            "x": 464,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 557
+                            "x": 464,
+                            "y": 224
                           },
                           {
-                            "x": 358,
-                            "y": 557
+                            "x": 24,
+                            "y": 224
                           }
                         ]
                       ]
@@ -13313,20 +13393,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 358,
-                            "y": 364
+                            "x": 24,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 364
+                            "x": 464,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 557
+                            "x": 464,
+                            "y": 224
                           },
                           {
-                            "x": 358,
-                            "y": 557
+                            "x": 24,
+                            "y": 224
                           }
                         ]
                       ]
@@ -13349,20 +13429,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 358,
-                            "y": 364
+                            "x": 24,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 364
+                            "x": 464,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 557
+                            "x": 464,
+                            "y": 224
                           },
                           {
-                            "x": 358,
-                            "y": 557
+                            "x": 24,
+                            "y": 224
                           }
                         ]
                       ]
@@ -13385,20 +13465,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 358,
-                            "y": 364
+                            "x": 24,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 364
+                            "x": 464,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 557
+                            "x": 464,
+                            "y": 224
                           },
                           {
-                            "x": 358,
-                            "y": 557
+                            "x": 24,
+                            "y": 224
                           }
                         ]
                       ]
@@ -13421,20 +13501,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 358,
-                            "y": 364
+                            "x": 24,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 364
+                            "x": 464,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 557
+                            "x": 464,
+                            "y": 224
                           },
                           {
-                            "x": 358,
-                            "y": 557
+                            "x": 24,
+                            "y": 224
                           }
                         ]
                       ]
@@ -13457,20 +13537,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 358,
-                            "y": 364
+                            "x": 24,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 364
+                            "x": 464,
+                            "y": 60
                           },
                           {
-                            "x": 538,
-                            "y": 557
+                            "x": 464,
+                            "y": 224
                           },
                           {
-                            "x": 358,
-                            "y": 557
+                            "x": 24,
+                            "y": 224
                           }
                         ]
                       ]
