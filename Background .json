@@ -1895,6 +1895,118 @@
         "name": "Detail/Mặt tiền nhà cổ pixel art",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player6",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -11176,8 +11288,8 @@
           "name": "Player",
           "persistentUuid": "a91c5c2a-384a-4788-92a0-c9f234bd1d72",
           "width": 0,
-          "x": 30,
-          "y": 377,
+          "x": 483,
+          "y": 286,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -12839,16 +12951,16 @@
           ],
           "animations": [
             {
-              "name": "tancong",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.14,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "1ne.png",
+                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12864,27 +12976,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "2ne.png",
+                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12900,27 +13012,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "3ne.png",
+                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12936,27 +13048,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "tancong11.png",
+                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12972,27 +13084,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "tancong10.png",
+                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13008,27 +13120,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "C:/Users/anngu_4ydz2un/Downloads/tancong7.png",
+                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13044,27 +13156,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "tancong9.png",
+                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13080,20 +13192,56 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Character/SƯ PHỤ DƯA MUỐI/Ultimate-Attack/tancong8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 358,
+                            "y": 364
+                          },
+                          {
+                            "x": 538,
+                            "y": 364
+                          },
+                          {
+                            "x": 538,
+                            "y": 557
+                          },
+                          {
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
@@ -13103,16 +13251,17 @@
               ]
             },
             {
-              "name": "luatancong",
+              "name": "Player",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.14,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "luatancong7.png",
+                      "image": "Player",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13128,27 +13277,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "luatancong7.png",
+                      "image": "Player2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13164,27 +13313,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "luatancong8.png",
+                      "image": "Player3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13200,27 +13349,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "luatancong9.png",
+                      "image": "Player4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13236,20 +13385,92 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11,
-                            "y": 11
+                            "x": 358,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 11
+                            "x": 538,
+                            "y": 364
                           },
                           {
-                            "x": 191,
-                            "y": 204
+                            "x": 538,
+                            "y": 557
                           },
                           {
-                            "x": 11,
-                            "y": 204
+                            "x": 358,
+                            "y": 557
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 358,
+                            "y": 364
+                          },
+                          {
+                            "x": 538,
+                            "y": 364
+                          },
+                          {
+                            "x": 538,
+                            "y": 557
+                          },
+                          {
+                            "x": 358,
+                            "y": 557
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 358,
+                            "y": 364
+                          },
+                          {
+                            "x": 538,
+                            "y": 364
+                          },
+                          {
+                            "x": 538,
+                            "y": 557
+                          },
+                          {
+                            "x": 358,
+                            "y": 557
                           }
                         ]
                       ]
